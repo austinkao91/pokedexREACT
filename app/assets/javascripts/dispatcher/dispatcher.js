@@ -1,0 +1,3 @@
+
+
+var pokemonDispatcher = new FluxDispatcher();
